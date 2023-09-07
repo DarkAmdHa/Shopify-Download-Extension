@@ -1,0 +1,16 @@
+{
+    "name": "Shopify Theme Downloader",
+    "version": "1.0.0",
+    "description": "Shopify Theme Downloader",
+    "manifest_version": 3,
+    "author": "Hamid Tahir",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Shopify Theme Downloader"
+    },
+    "permissions": [
+        "activeTab",
+        "storage",
+        "downloads"
+      ],
+}
